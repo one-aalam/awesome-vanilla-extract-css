@@ -1,4 +1,4 @@
-# Awesome [Vanilla Extract CSS](https://twitter.com/markdalgleish/status/1375316120530382848)
+# Awesome [Vanilla Extract CSS](https://twitter.com/markdalgleish/status/1375316120530382848) ([Docs](https://vanilla-extract.style/documentation/))
 
 ## Vanilla based Frameworks/Libraries
 - [Sprinkles](https://github.com/seek-oss/vanilla-extract/tree/master/packages/sprinkles)
