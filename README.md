@@ -4,6 +4,7 @@
 - [Sprinkles](https://github.com/seek-oss/vanilla-extract/tree/master/packages/sprinkles)
 - [Dessert Box](https://github.com/TheMightyPenguin/dessert-box)
 - [Vanilla Classnames](https://github.com/Amareis/vanilla-classnames)
+- [LYTS](https://github.com/christiankaindl/LYTS)
 
 ## Early Adopters
 - __Shopify__ is [replacing SASS with Vanilla Extract CSS for the initial Polaris foundations](https://github.com/Shopify/polaris/discussions/44)
